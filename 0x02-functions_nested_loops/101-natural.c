@@ -3,7 +3,7 @@
 /**
  * main - list all the nautural member below 1024
  * excluded that are multiples of 3 & 5
- * 
+ *
  * Return: 0
  */
 
